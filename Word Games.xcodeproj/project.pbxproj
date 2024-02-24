@@ -15,6 +15,7 @@
 		B522ADB82B890BE300DC1E28 /* Word_GamesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B522ADB72B890BE300DC1E28 /* Word_GamesUITests.swift */; };
 		B522ADBA2B890BE300DC1E28 /* Word_GamesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B522ADB92B890BE300DC1E28 /* Word_GamesUITestsLaunchTests.swift */; };
 		B522ADC82B892F6B00DC1E28 /* WordleGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = B522ADC72B892F6B00DC1E28 /* WordleGame.swift */; };
+		B522ADCA2B8956DC00DC1E28 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B522ADC92B8956DC00DC1E28 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B522ADB92B890BE300DC1E28 /* Word_GamesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word_GamesUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		B522ADC62B890FD400DC1E28 /* Word Games.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Word Games.entitlements"; sourceTree = "<group>"; };
 		B522ADC72B892F6B00DC1E28 /* WordleGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordleGame.swift; sourceTree = "<group>"; };
+		B522ADC92B8956DC00DC1E28 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				B522ADA02B890BE200DC1E28 /* Assets.xcassets */,
 				B522ADA22B890BE200DC1E28 /* Preview Content */,
 				B522ADC72B892F6B00DC1E28 /* WordleGame.swift */,
+				B522ADC92B8956DC00DC1E28 /* HomeView.swift */,
 			);
 			path = "Word Games";
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			files = (
 				B522ADC82B892F6B00DC1E28 /* WordleGame.swift in Sources */,
 				B522AD9F2B890BE000DC1E28 /* ContentView.swift in Sources */,
+				B522ADCA2B8956DC00DC1E28 /* HomeView.swift in Sources */,
 				B522AD9D2B890BE000DC1E28 /* Word_GamesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

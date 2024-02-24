@@ -4,15 +4,18 @@
 //
 //  Created by Rahul B on 2/23/24.
 //
-
-import SwiftUI
-
-struct EntranceView: View {
-    var body: some View {
-        Button(action: ContentView())
-    }
-}
-
-#Preview {
-    EntranceView()
-}
+//
+//import SwiftUI
+//
+//struct HomeView: View {
+//    let games: [Games]
+//    var body: some View {
+//        NavigationStack{
+//            
+//        }
+//    }
+//}
+//
+//#Preview {
+//    HomeView()
+//}

@@ -1,7 +1,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    @StateObject private var game = WordleGame(targetWord: "apart")
+    @StateObject private var game = WordleGame(targetWord: "Farts")
     @State private var currentGuess = ""
     @State private var errorMsg = ""
 
